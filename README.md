@@ -3,7 +3,7 @@ command line interface for hue lights control
 
 ## Installation
 
-1. Create Virtual enviroment
+1. Create Virtual enviroment \n
   $ virtualenv venv
 
 2. Activate Virtual enviroment
